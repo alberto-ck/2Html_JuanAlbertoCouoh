@@ -1,0 +1,45 @@
+.header{
+    font-size: 42px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive, bold;
+    background-color: aqua;
+}
+.h2{
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive, bold;
+}
+.h4{
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+.img{
+    width: 25%;
+    align-items: center;
+    border-radius: 12px;
+}
+.li{
+    font-size: 16px;
+    text-align: left;
+    font-family: 'Indie Flower', cursive;
+}
+.p{
+    text-align: center;
+    font-size: 12px;
+}
+.button{
+    border-color: aliceblue;
+}
+.footer{
+    background-color: aqua;
+    border-radius: 12px;
+}
+.pf{
+    text-align: center;
+    margin: 12px;
+}
+.nav{
+    text-align: left;
+    background-color: aqua;
+}
